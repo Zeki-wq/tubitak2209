@@ -24,7 +24,7 @@ Yenilenebilir enerji sistemlerinin verimli işletilmesi için bakım kararların
 | Çıktı | Hedef | Doğrulama |
 |---|---|---|
 | Ölçüm ve anomali oluşturma protokolü | 1 doküman | Sürüm kayıtlı protokol |
-| Etiketli oturum kümesi | En az 90 planlı oturum | Oturum kayıt çizelgesi |
+| Etiketli oturum kümesi | En az on takvim gününe yayılmış 90 planlı oturum | Oturum kayıt çizelgesi |
 | Karşılaştırmalı sonuç | 3 model grubu + eşik kuralı | Performans tabloları |
 | Tek kart bilgisayarda çıkarım ölçümü | Süre ve enerji raporu | Ölçüm kayıtları |
 | Öğrenci sunumu | 1 sunum | Sunum dosyası |

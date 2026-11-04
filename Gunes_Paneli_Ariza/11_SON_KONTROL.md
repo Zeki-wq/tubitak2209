@@ -1,5 +1,15 @@
 # 2026 TÜBİTAK 2209-A başvuru son kontrol listesi
 
+## Gönderimden önce yalnızca yürütücü veya danışmanın doğrulayabileceği bilgiler
+
+Bu beş madde proje metniyle çözülemez ve teyitsiz biçimde girilmemelidir. Her biri tamamlanmadan öğrenci veya danışman onayı verilmemelidir.
+
+1. TYBS'de yürütücü, üniversite/bölüm, danışman, proje ortağı ve yürütücüye ait IBAN bilgileri gerçek kayıtlardan girildi.
+2. Danışman, `06_PROJE_YONETIMI.md` içindeki açık alan izni, laboratuvar, ölçüm aletleri ve kendi teknik desteğini gerçekte teyit etti.
+3. Her bütçe kalemi için güncel tedarikçi fiyatı, KDV ve kargo kontrol edildi; kurumda mevcut cihazlar bütçeden çıkarıldı ve toplam tutar 12.000 TL'yi aşmadı.
+4. Üniversitenin etik kurul/birim yönlendirmesine göre bu insan, hayvan ve kişisel veri içermeyen çalışma için muafiyet veya başka bir izin gerekip gerekmediği teyit edildi.
+5. ÜYZ kullanımı, 08'deki açıklamayla aynı kapsamda TYBS'de açıkça beyan edildi; başvuru metni danışman tarafından son kez okundu.
+
 ## Metin ve yöntem
 - [ ] Özet 25–450 kelime arasında.
 - [ ] 1.1 Bilimsel nitelik en az 350 karakter.
@@ -17,6 +27,7 @@
 ## Projeye özgü kontroller
 - [ ] Panelin yerleştirileceği açık alan ve erişim izni teyit edildi.
 - [ ] Başlangıç tarihi göz önüne alınarak güneşli gün sayısı gerçekçi planlandı.
+- [ ] Planlanan 90 oturumun her koşul-bant birleşimi için en az beş farklı gün içermesi ve toplamda en az on takvim gününe yayılması kayıt çizelgesinde planlandı.
 - [ ] Anomalilerin gerçek arızaların yalnızca kontrollü temsilleri olduğu metinde açıkça yazılı.
 - [ ] Kalıcı hasar oluşturma, "arıza tespit edildi" veya "santrale uygulanabilir" gibi bir ifade metinde yok.
 - [ ] Termal sensörün çözünürlük sınırı bilinmeden güçlü bir algılama iddiası kurulmadı.
@@ -31,9 +42,12 @@
 - [ ] Gerekliyse etik kurul onayı veya muafiyet gerekliliği değerlendirilmiş.
 - [ ] Gerçek tedarikçi fiyatlarıyla nihai bütçe doldurulmuş.
 - [ ] ÜYZ kullanımına ilişkin TÜBİTAK rehberi okunmuş, kullanım bilgileri doğru beyan edilmiş.
+- [ ] ÜYZ kullanımı önemli ölçüde yapıldığı için TYBS'de istenen beyan eksiksiz girilmiş; 08'deki kullanım kapsamıyla çelişmiyor.
+- [ ] Başvuru metni ve ÜYZ ile oluşturulan ek içerikler akademik danışman tarafından kaynak, özgünlük, güncellik ve bilimsel uygunluk bakımından okunup onaylandı.
 
 ## Gönderim
 - [ ] Markdown alanları TYBS'ye aktarıldı, tablolar sistem editöründe oluşturuldu.
+- [ ] Mermaid kodu TYBS'ye yapıştırılmadı; kullanılacak diyagramlar .png/.jpg olarak yüklendi ve denklemler metin ya da okunaklı görsel olarak aktarıldı.
 - [ ] TYBS'de **Proje Önerisini Önizle** açılarak boş alan, kayıp paragraf, tablo taşıntısı kontrol edildi.
 - [ ] Başvuru öğrenci tarafından onaylandı.
 - [ ] Danışman onayı 11 Kasım 2026 saat 17.30'dan önce tamamlandı.

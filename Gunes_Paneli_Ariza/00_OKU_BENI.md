@@ -31,10 +31,13 @@ Bu klasördeki dosyalar 2026 tarihli resmî **Başvuru İçeriği Bilgi Notu** b
 - Tasarım henüz uygulanmadı. Veri toplandı, sonuç alındı gibi bir ifade metne eklenmemeli.
 - Projede kalıcı hücre hasarı oluşturulmuyor. Kapsam kontrollü, geri döndürülebilir anomalilerle sınırlıdır.
 - Başvuruda ÜYZ kullanımına ilişkin TÜBİTAK rehberi izlenmeli ve gerçek kullanım doğru beyan edilmelidir. Metni öğrenci ve danışman okuyup düzeltmeli, kaynakları tek tek açıp kontrol etmelidir.
+- Bu pakette ÜYZ; metin yapılandırma, kaynak adayı bulma, taslak algoritma/diyagram ve tutarlılık denetiminde önemli ölçüde kullanılmıştır. TYBS'de istenen beyan, `08_DIGER_KONULAR_VE_EKLER.md` içindeki gerçek kullanım açıklamasıyla uyumlu biçimde girilmelidir.
 
 ## Resmî kaynaklar
 - [2209-A programı](https://tubitak.gov.tr/tr/burslar/lisans-onlisans/destek-programlari/2209-universite-ogrencileri-arastirma-projeleri-destekleme-programi)
 - [2026 başvuru içerik bilgi notu (PDF)](https://tubitak.gov.tr/sites/default/files/2026-10/2209-A_Basvuru_Icerigi_Bilgi_Notu.pdf)
+- [Bibliyografik verilerin düzenlenmesi](https://tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi)
+- [Üretken yapay zekâ rehberi](https://tubitak.gov.tr/tr/kurumsal/hakkimizda/uretken-yapay-zeka-rehberi)
 - [TYBS](https://tybsng.tubitak.gov.tr/)
 
 **Son başvuru:** 11 Kasım 2026, 17.30 (akademik danışman onayı dahil).

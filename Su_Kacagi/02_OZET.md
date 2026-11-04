@@ -1,9 +1,0 @@
-# Özet
-
-Su boru hatlarında meydana gelen küçük kaçaklar her zaman gözle fark edilemez. Kaçak noktasına ulaşmak zor olduğunda arızanın bulunması da zaman alabilir. Bu projede, düşük maliyetli sensörlerle boru hattındaki kaçak durumunun belirlenip belirlenemeyeceğini araştırmak istiyoruz. Çalışmanın temel amacı yalnızca bir uyarı sistemi yapmak değildir. Akustik ve basınç ölçümlerini birlikte kullanmanın, tek bir ölçüm türüne göre gerçekten avantaj sağlayıp sağlamadığını deneysel olarak incelemeyi hedefliyoruz.
-
-Bu amaçla kapalı devre çalışan, su deposu ve pompadan oluşan küçük bir boru hattı kurulacaktır. Hat üzerinde üç farklı noktadan kontrollü kaçak oluşturulacaktır. Boruya temas eden akustik algılayıcılardan ve basınç sensörlerinden alınan veriler mikrodenetleyici tabanlı düğümlerde kaydedilecektir. Normal çalışma, farklı kaçak büyüklükleri, debi değişimleri ve ek mekanik gürültü koşulları için ölçümler yapılacaktır. Ölçüm verilerinden zaman ve frekans alanına ait özellikler çıkarılacak, basit eşik yöntemleriyle makine öğrenmesi modelleri karşılaştırılacaktır. Ayrıca sensörlerin tek başına ve birlikte kullanıldığı durumlar değerlendirilecektir.
-
-Çalışmada kaçak tespitinde F1 skoru ve yanlış alarm oranı, bölgesel konumlandırmada ise sınıflandırma başarısı ölçülecektir. Verilerin eğitim ve test ayrımında aynı kayıt oturumundan gelen parçaların iki kümeye dağılmamasına dikkat edilecektir. Sekiz aylık çalışma sonunda deney düzeneği, etiketli ölçüm verileri ve karşılaştırmalı analiz raporu oluşturulması planlanmaktadır. Elde edilen sonuçların, düşük maliyetli su altyapısı izleme çalışmalarına ve ileride yapılabilecek daha kapsamlı saha araştırmalarına katkı sunabileceğini düşünüyoruz.
-
-**Anahtar kelimeler:** su kaçağı, akustik ölçüm, basınç sensörü, sensör füzyonu, gömülü sistem, makine öğrenmesi.

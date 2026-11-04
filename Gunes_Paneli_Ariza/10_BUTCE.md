@@ -10,7 +10,7 @@
 | Kablosuz mikrodenetleyici geliştirme kartı | 2 | 500 | 1.000 | Makine/teçhizat |
 | I–V tarama devresi (güç MOSFET, soğutucu, şönt, DAC) | 1 set | 900 | 900 | Sarf malzeme |
 | Akım/gerilim ölçüm modülü | 2 | 350 | 700 | Makine/teçhizat |
-| Referans ışınım hücresi ve ışık sensörü | 1 set | 700 | 700 | Makine/teçhizat |
+| Referans ışınım hücresi (göreli ışınım göstergesi) | 1 set | 700 | 700 | Makine/teçhizat |
 | Panel standı, gölgeleme maskeleri, yarı saydam film, muhafaza ve sarf | 1 set | 700 | 700 | Sarf malzeme |
 | Seri direnç seti (güç dirençleri) | 1 set | 400 | 400 | Sarf malzeme |
 | Sıcaklık sensörleri (panel arka yüzeyi) | 2 | 150 | 300 | Sarf malzeme |
